@@ -1,11 +1,29 @@
 <channels>
 
 <channel>
-<name>[B][COLOR blue]::::[/COLOR] 1ª TEMPORADA (SIREN) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
-<thumbnail>https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/05/100_siren_cphoto12.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SRmasazuka/Siren/master/s01</externallink>
-<fanart>https://poltronanerd.com.br/wp-content/uploads/2018/05/eline-powell-siren.jpg</fanart>
-<info>
-[B]A cidade litorânea de Bristol Cove sempre foi conhecida em lendas por ser a "casa das sereias". A chegada da misteriosa Ryn (Eline Powell) ao vilarejo de pescadores pode acabar provando que o folclore em torno do local é verdadeiro.[/B]
-</info>
+<name>[B][COLOR blue]::::[/COLOR] 3ª TEMPORADA (THE 100) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/the-100/master/S03</externallink>
+<fanart>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]::::[/COLOR] 4ª TEMPORADA (THE 100) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/ac/0a/6a/ac0a6af3607603881d00eaa89ae5b866.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/the-100/master/S04</externallink>
+<fanart>https://i.pinimg.com/originals/ac/0a/6a/ac0a6af3607603881d00eaa89ae5b866.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]::::[/COLOR] 5ª TEMPORADA (THE 100) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
+<thumbnail>https://www.minhaserie.com.br/uploads/editor_pictures/000/057/102/content_pic.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/the-100/master/S05</externallink>
+<fanart>https://www.minhaserie.com.br/uploads/editor_pictures/000/057/102/content_pic.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]::::[/COLOR] 6ª TEMPORADA (THE 100) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
+<thumbnail>https://vignette.wikia.nocookie.net/thehundred/images/0/0c/S6_Poster.jpg/revision/latest?cb=20190327174513</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/the-100/master/S06</externallink>
+<fanart>https://pmcvariety.files.wordpress.com/2019/04/hun601b_0157r.jpg?crop=0px%2C123px%2C1200px%2C676px&resize=1000%2C563</fanart>
 </channel>
